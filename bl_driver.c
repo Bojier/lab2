@@ -276,5 +276,5 @@ mydisk_cleanup();
 module_init(mydiskdrive_init);
 module_exit(mydiskdrive_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("P3402 Rogalenko, Kokov");
+MODULE_AUTHOR("liliy");
 MODULE_DESCRIPTION("Lab2");
